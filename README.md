@@ -6,4 +6,4 @@ A sample Angular application with a lazy loaded module that contains a single co
 ## Why The App Exists
 This app is to represent a sample application that has lazy loading implemented as well as server side rendering(SSR). It can be used as an example of a hello-world like application that has lazy loading and SSR enabled. Moreover, it can be used to measure a hello-world like Angular application's performance with tools such as lighthouse. A lighthouse report of this app can be found [here](github/).
 
-![Image of Lighthouse Performace](github/lighthouse-performance.png)
+![Image of Lighthouse Performace](github/lighthouse-performance.PNG)
