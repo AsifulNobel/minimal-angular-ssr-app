@@ -18,6 +18,9 @@ module.exports = {
   optimization: {
     minimize: false
   },
+  node: {
+    __dirname: false
+  },
   output: {
     // Puts the output at the root of the dist folder
     path: path.join(__dirname, 'dist'),
